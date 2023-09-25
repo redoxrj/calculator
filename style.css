@@ -1,0 +1,65 @@
+body{
+    /* height: 100%;
+    width: 99%; */
+    background-color: aliceblue;
+}
+h1{
+    color: orange;
+}
+.container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.box{
+    margin: 12px;
+}
+.btn{
+    padding: 13px 15px;
+    margin: 5px 2px;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: 19px;
+}
+.input{
+    padding: 16px 12px;
+    margin: 12px 12px;
+    border: 2px solid black;
+    font-size: 17px;
+    border-radius: 5px;
+    text-decoration: dotted;
+
+}
+.outline{
+    border: 2px solid white;
+    /* max-width: 40%; */
+    border-radius: 34px;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 12px;
+    background-color: black;
+
+}
+.orange{
+    background-color: orange;
+    color: white;
+
+}
+.blue{
+    background-color: rgb(0, 47, 255);
+    color: white;
+
+}
+.green{
+    background-color: rgb(9, 155, 36);
+    color: white;
+
+}
+.orange text{
+    font-size: large;
+
+
+}
